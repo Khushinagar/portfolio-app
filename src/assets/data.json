@@ -1,0 +1,46 @@
+{
+    "projects":[
+        {
+            "date":"5-09-2023",
+            "title":"Explore The World",
+            "description":"this is the react projet which is about the wolrd destinaions",
+            "url":"https://landingpage-flame-mu.vercel.app/",
+            "imgSrc":"https://res.cloudinary.com/db3za2jth/image/upload/v1696403816/WhatsApp_Image_2023-10-04_at_12.44.11_PM_kpohax.jpg"
+            
+        },
+        {
+            "date":"30-09-2023",
+            "title":"music player",
+            "description":"this is the linkedin Clone",
+            "url":"https://landingpage-flame-mu.vercel.app/",
+            "imgSrc":"https://res.cloudinary.com/db3za2jth/image/upload/v1696403816/WhatsApp_Image_2023-10-04_at_12.44.11_PM_kpohax.jpg"
+            
+        },
+        {
+            "date":"24-09-2023",
+            "title":"destination map",
+            "description":"this is the linkedin Clone",
+            "url":"https://landingpage-flame-mu.vercel.app/",
+            "imgSrc":"https://res.cloudinary.com/db3za2jth/image/upload/v1696403816/WhatsApp_Image_2023-10-04_at_12.44.11_PM_kpohax.jpg"
+            
+        },
+        {
+            "date":"20-09-2023",
+            "title":"Linkedin Clone",
+            "description":"this is the linkedin Clone",
+            "url":"https://landingpage-flame-mu.vercel.app/",
+            "imgSrc":"https://res.cloudinary.com/db3za2jth/image/upload/v1696403816/WhatsApp_Image_2023-10-04_at_12.44.11_PM_kpohax.jpg"
+            
+        },
+        {
+            "date":"04-10-2023",
+            "title":"portfolio",
+            "description":"this is portfolio projrct",
+            "url":"/",
+            "imgSrc":"https://res.cloudinary.com/db3za2jth/image/upload/v1694801314/destinations/notepad-1130743_1280_ez6lnu.jpg"
+            
+        }
+    
+    
+]
+}

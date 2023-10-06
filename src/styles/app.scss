@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Roboto:wght@100&display=swap');
+@import "statics";
+@import 'animations';
+@import "header";
+@import 'home';
+@import 'Work';
+@import 'experience';
+@import 'services';
+@import 'testimonial';
+@import 'contact';
+@import 'footer';
+@import 'mediaquery';
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: $text2;
+    text-decoration: none;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+a{
+    text-decoration: none;
+}
+
+body{
+    background-color: $color1;
+    overflow-x: hidden;
+}
+ .disableBtn{
+    color: $color6 !important;
+    background-color: rgb(237, 237, 237) !important;
+    cursor: not-allowed !important;
+}
+
