@@ -5,10 +5,10 @@ const Header = ({menuOpen,setMenuOpen}) => {
   return (
     <>
     <nav>
-      <NavContent />
+      <NavContent setMenuOpen={setMenuOpen}/>
     </nav>
-     <button onClick={()=>setMenuOpen(!menuOpen)} className='menu-btn'>
-     <AiOutlineMenu />
+     <button onClick={()=>setMenuOpen(!menuOpen)} >
+     <AiOutlineMenu className='menu-btn'/>
      </button>
      </>
    
@@ -32,10 +32,10 @@ export const HeaderPhone = ({menuOpen,setMenuOpen}) => {
     <a onClick={()=>setMenuOpen(false)} href='#services'>Services</a>
     <a onClick={()=>setMenuOpen(false)} href='#testimonial'>Testimonial</a> 
     <a onClick={()=>setMenuOpen(false)} href='#contact'>Contact</a>
-  </div>
   <a href="mailto:nagar.khushi2001@gmail.com">
     <button className='btn-email'>Email</button>
   </a>
+  </div>
   </>
 );
 

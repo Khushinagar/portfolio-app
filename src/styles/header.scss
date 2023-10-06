@@ -29,21 +29,23 @@ nav{
         }
     }
 
-    >a >button{ 
-        border: 1px solid $color6_1;
-        padding: .4vw .5vw;
-        background-color: $color1;
-        letter-spacing: 1px;
-        cursor: pointer;
-        color: $color6;
-        font-weight: 600;
-        transition: all .3s;
-        &:hover{
-            background-color: $color6;
-            color: $color4;
-        }
-
+    
+}
+.btn-email{ 
+        
+    border: 1px solid $color6_1;
+    padding: .4vw .5vw;
+    background-color: $color1;
+    letter-spacing: 1px;
+    cursor: pointer;
+    color: $color6;
+    font-weight: 600;
+    transition: all .3s;
+    &:hover{
+        background-color: $color6;
+        color: $color4;
     }
+
 }
 .menu-btn{
     font-size: large;
